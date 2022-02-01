@@ -1,0 +1,61 @@
+/*
+	Theme Name: Buson Theme
+	Theme URI: https://bishalguha.com/
+	Description: A plain-vanilla & lightweight theme for business
+	Author: Bishal Guha
+	Author URI: https://bishalguha.com/
+	Version: 1.0.0
+	Stable tag: 2.4.2
+	Requires at least: 4.7
+	Tested up to: 5.9
+	Requires PHP: 5.6
+	License: GNU General Public License v3 or later.
+	License URI: https://www.gnu.org/licenses/gpl-3.0.html
+	Text Domain: buson
+	Tags: flexible-header, custom-colors, custom-menu, custom-logo, featured-images, rtl-language-support, threaded-comments, translation-ready
+*/
+
+img {
+    width: 100%;
+}
+
+
+.single-cases-img img {
+    height: 282px !important;
+}
+
+.recent-cap span a {
+    color: #ff656a !important;
+}
+
+.testimonial-icon img {
+    width: 100px !important;
+    height: 100px !important;
+}
+
+.testimonial-ratting {
+    display: flex;
+    justify-content: center;
+}
+
+.blog-pagination .page-link {
+    padding: 0 22px !important;
+    width: 0 !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+.blog-pagination .page-link a{
+    color: #8a8a8a;
+}
+
+.single_sidebar_widget .post_item a{
+	color: #8a8a8a !important;
+}
+.footer-logo img {
+    width: 150px;
+}
+
+.testimonial-ratting img {
+    width: 147px !important;
+}
